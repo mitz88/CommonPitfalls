@@ -1,0 +1,4 @@
+Q ) Created a django project dj_pj, outside PycharmProjects folder created by pycharm IDE. On opening pycharm IDE and opening the project inside it to work, 
+    Pycharm is unable to refer to the imported django libraries. Pychrm shows erroe like "Error resolving names...". "Mark Directory as -> Sources Root" didn't help. 
+    How to resolve it ?
+A ) Its resolved if I create my django project inside the PycharmProjects folder. Then Pycharm is able to resolve all the library references. 
